@@ -1,0 +1,98 @@
+[
+  {
+    "name": "dog",
+    "description": "Dog",
+    "type": "yang",
+    "element": "earth",
+    "image": "images/dog.jpg",
+    "place": 11
+  },
+  {
+    "name": "dragon",
+    "description": "Dragon",
+    "type": "yang",
+    "element": "earth",
+    "image": "images/dragon.jpg",
+    "place": 5
+  },
+  {
+    "name": "goat",
+    "description": "Goat",
+    "type": "yin",
+    "element": "earth",
+    "image": "images/goat.jpg",
+    "place": 8
+  },
+  {
+    "name": "horse",
+    "description": "Horse",
+    "type": "yang",
+    "element": "fire",
+    "image": "images/horse.jpg",
+    "place": 7
+  },
+  {
+    "name": "monkey",
+    "description": "Monkey",
+    "type": "yang",
+    "element": "metal",
+    "image": "images/monkey.jpg",
+    "place": 9
+  },
+  {
+    "name": "ox",
+    "description": "Ox",
+    "type": "yin",
+    "element": "earth",
+    "image": "images/ox.jpg",
+    "place": 2
+  },
+  {
+    "name": "pig",
+    "description": "Pig",
+    "type": "yin",
+    "element": "water",
+    "image": "images/pig.jpg",
+    "place": 12
+  },
+  {
+    "name": "rabbit",
+    "description": "Rabbit",
+    "type": "yin",
+    "element": "wood",
+    "image": "images/rabbit.jpg",
+    "place": 4
+  },
+  {
+    "name": "rat",
+    "description": "Rat",
+    "type": "yang",
+    "element": "water",
+    "image": "images/rat.jpg",
+    "place": 1
+  },
+  {
+    "name": "rooster",
+    "description": "Rooster",
+    "type": "yin",
+    "element": "metal",
+    "image": "images/rooster.jpg",
+    "place": 10
+  },
+  {
+    "name": "snake",
+    "description": "Snake",
+    "type": "yin",
+    "element": "fire",
+    "image": "images/snake.jpg",
+    "place": 6
+  },
+  {
+    "name": "tiger",
+    "description": "Tiger",
+    "type": "yang",
+    "element": "wood",
+    "image": "images/tiger.jpg",
+    "place": 3
+  }
+]
